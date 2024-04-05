@@ -1,6 +1,6 @@
 Using ESP32 to experience the basics of using TFT_eSPI-library and more sensors as [GPS](https://github.com/auryn31/festival_finder), [Compass](https://github.com/VolosR/RotateCompas/tree/main), LoRA etc.
 The underlying Library used for the display is Bodmer/TFT_eSPI. [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI).
-[GC9A01-Tutorial](https://dronebotworkshop.com/gc9a01/#GC9A01_with_ESP32)
+[GC9A01-Tutorial](https://dronebotworkshop.com/gc9a01/#GC9A01_with_ESP32) and [raspioverlay](https://github.com/juliannojungle/gc9a01-overlay/tree/main)
 
 
 This is the first working version not adjusted to actual display size of 240x240 pixels with round shape:
@@ -12,7 +12,7 @@ This is the first working version not adjusted to actual display size of 240x240
 I am using the Wemos Mini D1 ESP2 - board, which is not usable for breadboard usage, 
 because it uses double row headers. But works fine for manual soldering on these pcbs. 
 
-connection schema:
+Primary connection schema:
 
 pin | gpio 
 --- | --- 
