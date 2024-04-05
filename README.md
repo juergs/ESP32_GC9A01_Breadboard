@@ -31,4 +31,6 @@ Some GPIO-pins (12,13,14,15) are exclusively reserved for [openOCD-Debugging](ht
 
 [PIO-Debugging](https://docs.platformio.org/en/latest/plus/debugging.html)
 
+[Debugger-Flaws](https://community.platformio.org/t/error-esp32-prog/19363/14?u=juergen.schweiss)
+
 
