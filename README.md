@@ -26,5 +26,7 @@ This schematics shows the wemos mini d1 ESP32 pinout from the _botton side_ (!).
 <img src="https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/Schematic_ESP_Breadboard_GC9A01.V1_2024-04-05.png" heigt=150/>
 
 Some GPIO-pins are exclusively reserved for [openOCD-Debugging](https://www.hackster.io/brian-lough/use-the-platformio-debugger-on-the-esp32-using-an-esp-prog-f633b6) with PlatformIO.
+[Debugger-HowTo](https://community.platformio.org/t/esp32-pio-unified-debugger/4541/20)
+[PIO-Debugging](https://docs.platformio.org/en/latest/plus/debugging.html)
 
 
