@@ -3,6 +3,8 @@ The underlying Library used for the display is Bodmer/TFT_eSPI. [Bodmer/TFT_eSPI
 [GC9A01-Tutorial](https://dronebotworkshop.com/gc9a01/#GC9A01_with_ESP32) and [raspioverlay](https://github.com/juliannojungle/gc9a01-overlay/tree/main)
 [TFT_eSPI-sprite usage](https://github.com/VolosR/RotateSpritesTutorial)
 
+[PlatformIO configuration](https://net-things.de/index.php/blog/nutzung-der-tft-espi-bibliothek-mit-platformio)
+
 
 
 This is the first working version not adjusted to actual display size of 240x240 pixels with round shape:
