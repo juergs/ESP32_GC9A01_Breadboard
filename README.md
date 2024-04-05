@@ -40,4 +40,4 @@ Some GPIO-pins (12,13,14,15) are exclusively reserved for [openOCD-Debugging](ht
 > _*.pioinit:11: Error in sourced command file*_
 
 
-[Other display demo](Arduino GC9A01 Display Driver Demo)
+[GC9A01 Display Driver Demo](https://github.com/carlfriess/GC9A01_demo/blob/main/README.md)
