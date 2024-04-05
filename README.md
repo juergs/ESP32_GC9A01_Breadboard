@@ -1,5 +1,6 @@
-Using ESP32 to experience the basics of using TFT_eSPI-library and more sensors as GPS, [Compass](https://github.com/VolosR/RotateCompas/tree/main), LoRA etc.
+Using ESP32 to experience the basics of using TFT_eSPI-library and more sensors as [GPS](https://github.com/auryn31/festival_finder), [Compass](https://github.com/VolosR/RotateCompas/tree/main), LoRA etc.
 The underlying Library used for the display is Bodmer/TFT_eSPI. [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI).
+[GC9A01-Tutorial](https://dronebotworkshop.com/gc9a01/#GC9A01_with_ESP32)
 
 
 This is the first working version not adjusted to actual display size of 240x240 pixels with round shape:
