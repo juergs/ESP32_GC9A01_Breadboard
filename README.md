@@ -31,6 +31,8 @@ Some GPIO-pins (12,13,14,15) are exclusively reserved for [openOCD-Debugging](ht
 
 [PIO-Debugging](https://docs.platformio.org/en/latest/plus/debugging.html)
 
-[Debugger-Flaws](https://community.platformio.org/t/error-esp32-prog/19363/14?u=juergen.schweiss) especially for this annoying kind of error: '.pioinit:11: Error in sourced command file'
+[Debugger-Flaws](https://community.platformio.org/t/error-esp32-prog/19363/14?u=juergen.schweiss) 
+> Especially for this annoying kind of error:
+> _'.pioinit:11: Error in sourced command file'_
 
 
