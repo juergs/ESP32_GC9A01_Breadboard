@@ -1,5 +1,6 @@
-Using ESP32 to get basics of using TFT_eSPI-library and more sensors  
-as GPS, Compass, LoRA etc.
+Using ESP32 to experience the basics of using TFT_eSPI-library and more sensors as GPS, [Compass](https://github.com/VolosR/RotateCompas/tree/main), LoRA etc.
+The underlying Library used for the display is Bodmer/TFT_eSPI. [Bodmer/TFT_eSPI](https://github.com/Bodmer/TFT_eSPI).
+
 
 This is the first working version not adjusted to actual display size of 240x240 pixels with round shape:
 <!--
