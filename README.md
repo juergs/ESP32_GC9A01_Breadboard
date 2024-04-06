@@ -43,6 +43,8 @@ Some GPIO-pins (12,13,14,15) are exclusively reserved for [openOCD-Debugging](ht
 
 <img src="https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/ESP32_prototype_fitting_for%20ESP32-Debugger%20.png" height="150"/>
 
+[dronebot-Tutorial](https://dronebotworkshop.com/gc9a01/)
+
 
 [GC9A01 Display Driver Demo](https://github.com/carlfriess/GC9A01_demo/blob/main/README.md)
 
