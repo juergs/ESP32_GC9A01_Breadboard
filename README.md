@@ -26,6 +26,18 @@ pin | gpio
 **cs**  | 5
 **rst** | 33
 
+/--- GC9A01.V1 display has no MISO-pin nor a BL-pin!
+//###################################################################################
+//--- js 3.4.24 changed for Breadboarddisplay and release Debugging-Pins 12,13,14,15
+//###################################################################################
+#define TFT_MISO -1 
+#define TFT_SCLK 18
+#define TFT_MOSI 19  // *SDA* labeled pin on GC9A01.V1
+#define TFT_CS   5   // Chip select control pin
+#define TFT_DC   27  // Data Command control pin
+#define TFT_RST  33  // Reset pin (could connect to Arduino RESET pin)
+#define TFT_BL   -1  // LED back-light, could be 22
+
 This schematic shows the wemos mini d1 ESP32 pinout from the _**botton side**_ (!). 
 
 <img src="https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/Schematic_ESP_Breadboard_GC9A01.V1_2024-04-05.png" heigt="300"/>
