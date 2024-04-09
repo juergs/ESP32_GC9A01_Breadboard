@@ -26,6 +26,8 @@ pin | gpio
 **cs**  | 5
 **rst** | 33
 
+<button onclick="document.location='[default.asp](https://dronebotworkshop.com/gc9a01)'">Configuration</button> 
+
 I'm using this eps32 pin configuration TFT_eSPI in User_Setup.h  <a href="[Setting up the TFT_eSPI Library](https://dronebotworkshop.com/gc9a01/)">Setting up the TFT_eSPI Library</a>  
 
 ```cpp
