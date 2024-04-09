@@ -25,6 +25,9 @@ pin | gpio
 **dc**  | 27
 **cs**  | 5
 **rst** | 33
+
+I'm using this TFT_eSPI in User_Setup.h eps32 pin configuration: 
+
 ```
 /--- GC9A01.V1 display has no MISO-pin nor a BL-pin!
 //###################################################################################
