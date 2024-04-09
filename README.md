@@ -11,7 +11,7 @@ This is the first working version not adjusted to actual display size of 240x240
 <!--
 ![first working display](https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/GC9A01.V1_first_display.png)
 -->
-<img src="https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/GC9A01.V1_first_display.png" heigt="150"/>
+<img src="https://github.com/juergs/ESP32_GC9A01_Breadboard/blob/main/GC9A01.V1_first_display.png" heigt="100"/>
 
 I am using the [Wemos Mini D1 ESP2](https://artofcircuits.com/product/wemos-d1-mini-esp32-esp-wroom-32-4mb) - board, which is not usable for breadboard usage, 
 because it uses double row headers. But works fine for manual soldering on these pcbs. 
