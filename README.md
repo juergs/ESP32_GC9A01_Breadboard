@@ -18,7 +18,7 @@ because it uses double row headers. But works fine for manual soldering on these
 
 Primary connection schema:
 
-pin | gpio 
+ESP32-pin | gpio 
 --- | --- 
 **scl** | 18
 **sda/miso** | 19
