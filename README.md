@@ -28,7 +28,7 @@ pin | gpio
 
 I'm using this TFT_eSPI in User_Setup.h eps32 pin configuration: 
 
-```
+```cpp
 /--- GC9A01.V1 display has no MISO-pin nor a BL-pin!
 //###################################################################################
 //--- js 3.4.24 changed for Breadboarddisplay and release Debugging-Pins 12,13,14,15
