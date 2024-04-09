@@ -28,7 +28,7 @@ pin | gpio
 
 I'm using this eps32 pin configuration TFT_eSPI in User_Setup.h  
 
-<a href="[Setting up the TFT_eSPI Library](https://dronebotworkshop.com/gc9a01/)">Setting up the TFT_eSPI Library</a>  
+"[Setting up the TFT_eSPI Library](https://dronebotworkshop.com/gc9a01)
 
 ```cpp
 /--- GC9A01.V1 display has no MISO-pin nor a BL-pin!
