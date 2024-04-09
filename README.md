@@ -66,5 +66,7 @@ Some GPIO-pins (12,13,14,15) are exclusively reserved for [openOCD-Debugging](ht
 
 [GC9A01 Display Driver Demo](https://github.com/carlfriess/GC9A01_demo/blob/main/README.md)
 
+[TFT in general](http://www.technoblogy.com/show?3UEJ)
+
 
 
